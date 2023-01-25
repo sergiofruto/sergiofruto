@@ -1,3 +1,5 @@
+![Frontend Developer](https://github.com/sergiofruto/sergiofruto/blob/main/computer-blue-light.png)
+
 ### Hi there 👋, my name is Sergio
 #### I'm a Frontend Developer
 
