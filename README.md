@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Sergio
 #### I'm a Frontend Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Frontend developer, CSS enthusiastic. Love building cool and fun sites and applications. Big fan of fancy and smooth animations. Currently learning React, Typescript and Three JS.
 
 Skills: REACT / JS / HTML / CSS
 
