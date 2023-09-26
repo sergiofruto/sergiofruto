@@ -8,7 +8,7 @@ Frontend developer, CSS enthusiastic. Love building cool and fun sites and appli
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Freelance projects 
-- 🌱 I’m currently learning Typescript and PostgreSQL 
+- 🌱 I’m currently learning Python and Data Analysis
 - 😄 Pronouns: He/Him 
 
 
