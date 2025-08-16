@@ -1,16 +1,11 @@
 ![Frontend Developer](https://github.com/sergiofruto/sergiofruto/blob/main/computer-blue-light.png)
 
-### Hi there 👋, my name is Sergio
-#### I'm a Frontend Developer
+### Hi there 👋, my name is Sergio.
+#### I'm a Fullstack Developer.
 
-Frontend developer, CSS enthusiastic. Love building cool and fun sites and applications. Big fan of fancy and smooth animations. Currently learning React, Typescript and Three JS.
+Fullstack Developer, CSS enthusiastic. Love building cool stuff.  
+Big fan of fancy and smooth animations.
 
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on Freelance projects 
-- 🌱 I’m currently learning Python and Data Analysis
-- 😄 Pronouns: He/Him 
-
-
-
+- Currently working at www.cresteo.com
+- Currently learning Python, AI, Machine Learning. 
 
