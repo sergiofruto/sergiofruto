@@ -10,9 +10,9 @@
 `React` `Node.js` `Python` `LangChain` `Vector DBs` `Claude Code` `Cursor`
 
 **Currently**
-- 🤖 Building **Solaris** — a multi-agent coordinator with autonomous task reasoning
-- 🏢 Working at [cresteo.com](https://www.cresteo.com)
-- 📚 Deep-diving Python, AI, and Machine Learning
+- Working at [cresteo.com](https://www.cresteo.com)
+- Building a multi-agent coordinator with autonomous task reasoning
+- Deep-diving Python, AI, and Machine Learning
 
 ---
 
@@ -26,5 +26,7 @@
 
 ---
 
-📎 [LinkedIn](https://www.linkedin.com/in/sergio-gabriel-fruto/) · 🌐 [cresteo.com](https://www.cresteo.com)
+[LinkedIn](https://www.linkedin.com/in/sergio-gabriel-fruto/) 
+
+[cresteo.com](https://www.cresteo.com)
 
